@@ -1,7 +1,3 @@
-### Hi there 👋
-
-
-**AngeloRai/AngeloRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="150px"> &nbsp; ANGELO RAIMONDI 
 
@@ -13,14 +9,17 @@
 
 ### **I'm a full-stack web developer!**
 I also have an extensive background in translating and teaching English.
-I am an curious learner and have always valued people and relationships.
+I am an curious learner and have always valued people and relationships.<br><br>
 The many years helping people grow professionally by teaching and coaching along with the translations about a wide range of subjects have certainly added to my general knowledge and soft skills.
 Technology, logic and solution finding have always been of great interest to me, which motivated me to start studying Java and Python on my own for about a year. 
-<img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="30px"> I then decided to go for a web development Bootcamp with Ironhack on a 400-hour course focused on JavaScript, HTML, CSS, React, MongoDB, Axios and Express.
+<br><br><img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="30px"> <br>I then decided to go for a web development Bootcamp with Ironhack on a 400-hour course focused on JavaScript, HTML, CSS, React, MongoDB, Axios and Express.
 This Bootcamp not only taught me the theory and technical skills for the job, but also assigned challenging projects in which I could develop real applications in order to put all the new knowledge into practice.
 
-I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at angraimondi@gmail.com.
-
+I'm always looking to grow my personal and professional network. Feel free to connect me: <br>
+[<img align="left" alt="angeloraimondi | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="angeloraimondi | Gmail" width="30px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="angeloraimondi | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
+<br>
 ### **You can see some of my featured projects here:**
 
 - [PRIME GADGET](https://prime-gadgets.netlify.app/) 
@@ -73,15 +72,6 @@ I'm always looking to grow my personal and professional network. Feel free to co
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white)
-
-
-#### Business:
-
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Trello](https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
 
 <!--[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)-->
 <a href="https://badges.pufler.dev">
