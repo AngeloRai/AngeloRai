@@ -4,6 +4,7 @@
 [<img align="left" alt="angeloraimondi | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="angeloraimondi | Gmail" width="30px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="angeloraimondi | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
+
 <br><br>
 <hr>
 
