@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **AngeloRai/AngeloRai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="150px"> &nbsp; ANGELO RAIMONDI 
@@ -12,7 +12,7 @@
 <hr>
 
 ### **I'm a full-stack web developer!**
-
+I also have an extensive background in translating and teaching English.
 I am an curious learner and have always valued people and relationships.
 The many years helping people grow professionally by teaching and coaching along with the translations about a wide range of subjects have certainly added to my general knowledge and soft skills.
 Technology, logic and solution finding have always been of great interest to me, which motivated me to start studying Java and Python on my own for about a year. 
@@ -85,7 +85,7 @@ I'm always looking to grow my personal and professional network. Feel free to co
 
 <!--[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)-->
 <a href="https://badges.pufler.dev">
-    <img align="right" src="https://badges.pufler.dev/visits/AngeloRai/Trolleza?color=pink" alt="Visitors badge" />
+    <img align="right" src="https://badges.pufler.dev/visits/AngeloRai/AngeloRai?color=blue" alt="Visitors badge" />
  </a>
 
 [linkedin]: https://www.linkedin.com/in/angeloraimondi/
