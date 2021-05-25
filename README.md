@@ -20,10 +20,10 @@ I'm always looking to grow my personal and professional network. Feel free to co
 [<img align="left" alt="angeloraimondi | Gmail" width="30px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="angeloraimondi | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
 <br>
-### **You can see some of my featured projects here:**
+# **You can see some of my featured projects here:**
 
-- [PRIME GADGET](https://prime-gadgets.netlify.app/) 
-- [FUN RAIN](https://angelorai.github.io/first-game-fun-rain/) 
+## - [PRIME GADGET](https://prime-gadgets.netlify.app/) 
+## - [FUN RAIN](https://angelorai.github.io/first-game-fun-rain/) 
 
 ### GitHub Stats
 
