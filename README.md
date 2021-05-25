@@ -11,11 +11,6 @@
 <br><br>
 <hr>
 
-
-
-
-I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at angraimondi@gmail.com.
-
 ### **I'm a full-stack web developer!**
 
 I am an curious learner and have always valued people and relationships.
@@ -24,12 +19,7 @@ Technology, logic and solution finding have always been of great interest to me,
 <img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="30px"> I then decided to go for a web development Bootcamp with Ironhack on a 400-hour course focused on JavaScript, HTML, CSS, React, MongoDB, Axios and Express.
 This Bootcamp not only taught me the theory and technical skills for the job, but also assigned challenging projects in which I could develop real applications in order to put all the new knowledge into practice.
 
-If you are interested in the projects I developed during the course, here are 2 examples:
-
-1. https://prime-gadgets.netlify.app/
-
-2. 
-
+I'm always looking to grow my personal and professional network. Feel free to connect via LinkedIn or contact me directly at angraimondi@gmail.com.
 
 ### **You can see some of my featured projects here:**
 
