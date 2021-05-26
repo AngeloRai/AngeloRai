@@ -4,6 +4,7 @@
 [<img align="left" alt="angeloraimondi | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="angeloraimondi | Gmail" width="30px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="angeloraimondi | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
+[<img align="left" alt="angeloraimondi | Telegram" width="30px" src="./telegram-tile.svg" />][telegram]
 
 <br><br>
 <hr>
@@ -83,3 +84,4 @@ I'm always looking to grow my personal and professional network. Feel free to co
 [gmail]: mailto:angraimondi@gmail.com
 [medium]: https://medium.com/@elentary
 [whatsapp]: http://api.whatsapp.com/send?phone=5519981179881
+[telegram]: t.me/5519981179881
