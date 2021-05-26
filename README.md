@@ -84,4 +84,4 @@ I'm always looking to grow my personal and professional network. Feel free to co
 [gmail]: mailto:angraimondi@gmail.com
 [medium]: https://medium.com/@elentary
 [whatsapp]: http://api.whatsapp.com/send?phone=5519981179881
-[telegram]: t.me/5519981179881
+[telegram]: https://t.me/5519981179881
