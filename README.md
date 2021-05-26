@@ -18,9 +18,11 @@ Technology, logic and solution finding have always been of great interest to me,
 This Bootcamp not only taught me the theory and technical skills for the job, but also assigned challenging projects in which I could develop real applications in order to put all the new knowledge into practice.
 
 I'm always looking to grow my personal and professional network. Feel free to connect me: <br>
+<br>
 [<img align="left" alt="angeloraimondi | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="angeloraimondi | Gmail" width="30px" src="./gmail.svg" />][gmail]
 [<img align="left" alt="angeloraimondi | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
+[<img align="left" alt="angeloraimondi | Telegram" width="30px" src="./telegram-tile.svg" />][telegram]
 <br>
 # **You can see some of my featured projects here:**
 
