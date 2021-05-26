@@ -29,7 +29,7 @@ I'm always looking to grow my personal and professional network. Feel free to co
 ### GitHub Stats
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
-![Graziele Dantas's github stats](https://github-readme-stats.vercel.app/api?username=AngeloRai&show_icons=true&theme=cobalt)  &nbsp;   &nbsp; 
+![Angelo Raimondi's github stats](https://github-readme-stats.vercel.app/api?username=AngeloRai&show_icons=true&theme=cobalt)  &nbsp;   &nbsp; 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloRai&theme=cobalt&layout=compact)
 
 
