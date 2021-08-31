@@ -10,6 +10,9 @@
 <hr>
 
 ### **I'm a full-stack web developer!**
+I am currently working at Viper Consulting developing solutions through web applications for our clients, working in both fron and back end.
+Using mostly JavaScript, React, Node.js, PostreSQL. 
+
 I also have an extensive background in translating and teaching English.
 I am an curious learner and have always valued people and relationships.<br><br>
 The many years helping people grow professionally by teaching and coaching along with the translations about a wide range of subjects have certainly added to my general knowledge and soft skills.
