@@ -29,7 +29,9 @@ I'm always looking to grow my personal and professional network. Feel free to co
 <br>
 # **You can see some of my featured projects here:**
 
-## - [PRIME GADGET](https://prime-gadgets.netlify.app/) 
+## - [PRIME GADGET](https://prime-gadgets.netlify.app/)
+## - [EMPLOYEE REGISTRATION](https://register-employees.netlify.app/)
+## - [CHECKOUT](https://checkout-session.netlify.app/)
 ## - [FUN RAIN](https://angelorai.github.io/first-game-fun-rain/) 
 
 ### GitHub Stats
