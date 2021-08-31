@@ -10,7 +10,7 @@
 <hr>
 
 ### **I'm a full-stack web developer!**
-I am currently working at Viper Consulting developing solutions through web applications for our clients, working in both fron and back end.
+I am currently working at Viper Consulting developing solutions through web applications for our clients, working in both front and back end.
 Using mostly JavaScript, React, Node.js, PostreSQL. 
 
 I also have an extensive background in translating and teaching English.
