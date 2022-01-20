@@ -14,7 +14,7 @@ I am currently working mostly with JavaScript, React, CSS, Node.js.
 
 I am an curious learner and have always valued people and relationships.<br><br>
 
-Technology, logic and solution finding have always been of great interest to me, which motivated me to start studying Java and Python on my own for about a year. 
+Technology, logic and solution finding have always been of great interest to me. 
 <br><br><img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="30px"> 
 
 I'm always looking to grow my personal and professional network. Feel free to connect me: <br>
