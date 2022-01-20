@@ -10,15 +10,12 @@
 <hr>
 
 ### **I'm a full-stack web developer!**
-I am currently working at Viper Consulting developing solutions through web applications for our clients, working in both front and back end.
-Using mostly JavaScript, React, Node.js, PostreSQL. 
+I am currently working mostly with JavaScript, React, CSS, Node.js. 
 
-I also have an extensive background in translating and teaching English.
 I am an curious learner and have always valued people and relationships.<br><br>
-The many years helping people grow professionally by teaching and coaching along with the translations about a wide range of subjects have certainly added to my general knowledge and soft skills.
+
 Technology, logic and solution finding have always been of great interest to me, which motivated me to start studying Java and Python on my own for about a year. 
-<br><br><img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="30px"> <br>I then decided to go for a web development Bootcamp with Ironhack on a 400-hour course focused on JavaScript, HTML, CSS, React, MongoDB, Axios and Express.
-This Bootcamp not only taught me the theory and technical skills for the job, but also assigned challenging projects in which I could develop real applications in order to put all the new knowledge into practice.
+<br><br><img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="30px"> 
 
 I'm always looking to grow my personal and professional network. Feel free to connect me: <br>
 <br>
@@ -32,7 +29,7 @@ I'm always looking to grow my personal and professional network. Feel free to co
 ## - [PRIME GADGET](https://prime-gadgets.netlify.app/)
 ## - [EMPLOYEE REGISTRATION](https://register-employees.netlify.app/)
 ## - [CHECKOUT](https://checkout-session.netlify.app/)
-## - [FUN RAIN](https://angelorai.github.io/first-game-fun-rain/) 
+## - [EMPIRE RESCUE](https://empire-rescue.netlify.app/) 
 
 ### GitHub Stats
 
