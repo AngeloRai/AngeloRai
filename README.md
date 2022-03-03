@@ -1,5 +1,5 @@
 
-# <img src="https://media.giphy.com/media/WSBeyxvC1jH496xQGA/giphy.gif" width="150px"> &nbsp; ANGELO RAIMONDI 
+# &nbsp; ANGELO RAIMONDI 
 
 [<img align="left" alt="angeloraimondi | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="angeloraimondi | Gmail" width="30px" src="./gmail.svg" />][gmail]
