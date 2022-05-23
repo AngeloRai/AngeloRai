@@ -9,13 +9,7 @@
 <br><br>
 <hr>
 
-<br>
-[<img align="left" alt="angeloraimondi | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="angeloraimondi | Gmail" width="30px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="angeloraimondi | Whatsapp" width="30px" src="./whatsapp.svg" />][whatsapp]
-[<img align="left" alt="angeloraimondi | Telegram" width="30px" src="./telegram-tile.svg" />][telegram]
-<br>
-# **You can see some of my featured projects here:**
+
 
 
 
