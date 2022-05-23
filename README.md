@@ -9,15 +9,6 @@
 <br><br>
 <hr>
 
-### **I'm a full-stack web developer!**
-I am currently working mostly with JavaScript, React, CSS, Node.js. 
-
-I am an curious learner and have always valued people and relationships.<br><br>
-
-Technology, logic and solution finding have always been of great interest to me. 
-<br><br><img src="https://media.giphy.com/media/QXamPN46p4qpYMhf89/giphy.gif" width="30px"> 
-
-I'm always looking to grow my personal and professional network. Feel free to connect: <br>
 <br>
 [<img align="left" alt="angeloraimondi | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="angeloraimondi | Gmail" width="30px" src="./gmail.svg" />][gmail]
@@ -26,16 +17,6 @@ I'm always looking to grow my personal and professional network. Feel free to co
 <br>
 # **You can see some of my featured projects here:**
 
-## - [PRIME GADGET](https://prime-gadgets.netlify.app/)
-## - [EMPLOYEE REGISTRATION](https://register-employees.netlify.app/)
-## - [CHECKOUT](https://checkout-session.netlify.app/)
-## - [EMPIRE RESCUE](https://empire-rescue.netlify.app/) 
-
-### GitHub Stats
-
-<!--https://github.com/anuraghazra/github-readme-stats-->
-![Angelo Raimondi's github stats](https://github-readme-stats.vercel.app/api?username=AngeloRai&show_icons=true&theme=cobalt)  &nbsp;   &nbsp; 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngeloRai&theme=cobalt&layout=compact)
 
 
 ### My Stack
