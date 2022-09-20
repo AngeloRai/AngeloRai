@@ -61,6 +61,5 @@
 
 [linkedin]: https://www.linkedin.com/in/angeloraimondi/
 [gmail]: mailto:angraimondi@gmail.com
-[medium]: https://medium.com/@elentary
-[whatsapp]: http://api.whatsapp.com/send?phone=5519981179881
+[whatsapp]: http://api.whatsapp.com/send?phone=12533681772
 [telegram]: https://t.me/AngeloRaimondi
